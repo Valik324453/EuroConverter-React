@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EuroConverter-React/static/css/main.1d5cf842.css",
+    "main.js": "/EuroConverter-React/static/js/main.8a2ddc08.js",
+    "index.html": "/EuroConverter-React/index.html",
+    "main.1d5cf842.css.map": "/EuroConverter-React/static/css/main.1d5cf842.css.map",
+    "main.8a2ddc08.js.map": "/EuroConverter-React/static/js/main.8a2ddc08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d5cf842.css",
+    "static/js/main.8a2ddc08.js"
+  ]
+}
